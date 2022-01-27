@@ -1,5 +1,7 @@
 {
     "name": "sammmium/simple_cipher",
+    "description": "Cipher component for your projects",
+    "keywords": ["cipher", "sammmium", "simple_cipher", "SimpleCipher"],
     "type": "library",
     "authors": [
         {
@@ -10,10 +12,8 @@
     "require": {
         "php": ">=7.4"
     },
-    "require-dev": {
-
-    },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "cphr\\SimpleCipher\\": "src/"
