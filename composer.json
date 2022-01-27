@@ -1,0 +1,22 @@
+{
+    "name": "sammmium/simple_cipher",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eugeny Samoilov",
+            "email": "sammmium.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "cphr\\SimpleCipher\\": "src/"
+        }
+    }
+}
