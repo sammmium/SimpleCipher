@@ -12,11 +12,14 @@
     "require": {
         "php": ">=7.4"
     },
+    "require-dev": {
+
+    },
     "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "cphr\\SimpleCipher\\": "src/"
         }
-    },
-	"minimum-stability": "stable"
+    }
 }
