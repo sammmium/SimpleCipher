@@ -16,11 +16,10 @@
 
     },
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "cphr\\SimpleCipher\\": "src/"
         }
-    },
-    "prefer-stable": true
+    }
 }
