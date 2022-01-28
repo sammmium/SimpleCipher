@@ -12,9 +12,6 @@
     "require": {
         "php": ">=7.4"
     },
-    "require-dev": {
-
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
