@@ -9,7 +9,7 @@ INSTALLATION
 
 Using Composer.
 
-    composer require sammmium/simple_cipher
+    composer require sammmium/simple_cipher:dev-master
 
 REQUIREMENTS
 ------------
